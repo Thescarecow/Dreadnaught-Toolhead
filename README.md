@@ -1,9 +1,13 @@
 # Dreadnaught Toolhead
 <img width="2494" height="1297" alt="image" src="https://github.com/user-attachments/assets/45135bdc-d54e-4c15-a5c7-8f52e41cee55" />
 
-High-performance, centre-of-mass-conscious toolhead platform for high-flow hotends and compact geared extruders.
+Welcome to Dreadnaught, a high-performance 3D printer toolhead platform for Monolith belt path  and Voron belt path (soon) printers, built around an underslung hotend mount, compact belt path, and high-output part-cooling options.
 
-The design target is a stiff, compact toolhead suitable for engineering-grade printed materials such as PET-CF, PPS-CF, or comparable high-temperature composite materials. This is not intended as an ABS or equivalent-only toolhead design.
+The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling, while the Dual Ducted Fan version uses a pair of integrated 30 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11 A. This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for this printer class.
+
+The underslung hotend layout keeps the filament path and centre of mass close to the MGN12H rail carriage, improving rigidity and high-speed print stability while retaining compact packaging and no X-travel loss.
+
+The belt path supports up to 12 mm belts with an accessible, robust clamp arrangement, keeping the toolhead adaptable across different high-performance motion-system setups.
 
 ## Key features
 
