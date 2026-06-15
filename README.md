@@ -47,7 +47,8 @@ Supported extruder mounting patterns:
 - Sherpa Mini
 
 ## Core Structure ##
-image
+<img width="753" height="391" alt="Dreadnuaght core" src="https://github.com/user-attachments/assets/6f67a3eb-c137-4010-acf0-03fd3681e8f0" />
+
 The centre core houses a seperate part for the Belt clamp nuts. This means that if a bolt breaks, a nut galls, or the thread interface is damaged, the centre core can be replaced without reprinting the entire toolhead.
 
 The centre core also forms part of the reinforced hotend mounting structure. Longer front mounting bolts tie the hotend mount back into the rail carriage, which should improve stiffness compared with shorter bolts lacking the same support structure
@@ -57,7 +58,8 @@ Development started at the start of 2025 with the aim of producing a high-perfor
 
 The main design direction was to place the hotend underslung below the MGN12H rail, with the filament path positioned as close to the rail as practical. This was considered a viable way to improve centre-of-mass placement compared with more conventional front-mounted toolhead layouts.
 
-image
+<img width="350" height="597" alt="Dreadnaught Cpap section veiw" src="https://github.com/user-attachments/assets/e117b89b-3afd-49ff-a1d1-930f72ed9994" />
+
 
 ## Planned future versions
 
