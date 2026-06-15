@@ -1,4 +1,5 @@
 # Dreadnaught Toolhead
+<img width="2494" height="1297" alt="image" src="https://github.com/user-attachments/assets/45135bdc-d54e-4c15-a5c7-8f52e41cee55" />
 
 High-performance, centre-of-mass-conscious toolhead platform for high-flow hotends and compact geared extruders.
 
@@ -9,7 +10,7 @@ The design target is a stiff, compact toolhead suitable for engineering-grade pr
 - Up to 12 mm belt support
 - Monolith-style belt path
 - CPAP and fan-cooled variants
-- Extruder mounting support for Orbiter v2.0 / Orb2 and Sherpa Mini bolt patterns
+- Extruder mounting support for Orbiter v2.0 and Sherpa Mini bolt patterns
 - Hotend mounting support for Chube Air, Goliath Air, and Tricore Long Air
 - Belt clamp options for 6 mm, 9 mm, and 12 mm belts
 
@@ -17,7 +18,6 @@ The design target is a stiff, compact toolhead suitable for engineering-grade pr
 
 ### Dreadnaught Multicore CPAP v1
 
-The current public version is the CPAP variant.
 
 Supported hotends:
 
@@ -27,10 +27,25 @@ Supported hotends:
 
 Supported extruder mounting patterns:
 
-- Orbiter v2.0 / Orb2
+- Orbiter v2.0
 - Sherpa Mini
 
 Note: Some hotend mounting configurations may require tapping hotend mounts to M3.
+
+## Dual 30 mm ducted fan version ##
+
+Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM
+Supported hotends:
+
+- Chube Air
+- Goliath Air
+- Tricore Long Air
+
+Supported extruder mounting patterns:
+
+- Orbiter v2.0
+- Sherpa Mini
+
 
 ## Planned future versions
 
