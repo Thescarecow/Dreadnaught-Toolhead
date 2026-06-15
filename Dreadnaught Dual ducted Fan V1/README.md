@@ -2,25 +2,27 @@
 
 ## Dreadnaught Dual Ducted Fan v1 Release
 
-The Dreadnaught Multicore CPAP v1 is a high performance 3D printer toolhead design built around an underslung hotend mount. The design goal was to improve hotend rigidity, belt mounting flexibility, and centre-of-mass placement while retaining a compact package with no X-travel loss.
+The Dreadnaught Dual Ducted Fan v1 is a high-power fan-based toolhead for Monolith and Voron-style printers, built around an underslung hotend mount and dual 30 mm ducted fans.
 
-Underslinging the hotend below the MGN12H rail allows the filament path to sit close to the rail carriage. This helps keep the toolhead COM concentrated near the X gantry Rail carraige as much as possible, allowing for faster printing speeds while still keeping high print quailties.
+Using two 130 W / 5.5 A ducted fans, the toolhead has a combined fan capacity of 260 W and 11 A. This makes it one of the most powerful integrated fan-cooled toolhead designs currently released for this printer class.
 
-The underslung layout also allows for a compact belt clamp arrangement. The belt path supports up to 12 mm belts while keeping the clamp accessible, robust, and easy to adjust.
+The design carries over the core Dreadnaught layout goals: high hotend rigidity, compact packaging, no Xy-travel loss, and a centre of mass kept close to the MGN12H rail carriage. The underslung hotend layout keeps the filament path tight to the rail while leaving room for an accessible belt clamp arrangement supporting up to 12 mm belts.
+
+This version replaces the external CPAP-style airflow approach with a self-contained dual ducted fan system, targeting extreme part cooling for high-speed printing while retaining the compact Dreadnaught toolhead architecture.
 
 ## Features
 - For Monolith Belt path style Core XY printers
 - Support for belts up to 12 mm wide.
-- 16mm tube CPAP
-- No X-travel loss from the toolhead package size.
+- 30mm Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM 
+- No Xy-travel loss from the toolhead package size.
 - Underslung hotend layout for improved centre-of-mass placement.
 - Removable centre core with replaceable square nut interface.
 - Reinforced hotend mounting through longer front bolts into the rail carriage.
 - Combined hotend mounting pattern for Chube, Tricore, and Goliath hotends (providing the mounting bolts are tapped to M3).
 - M3 washer support for more secure hotend mounting.
-- Multiple CPAP duct length options:
-  Chube / Tricore length CPAP duct.
-  Goliath length CPAP duct.
+- Two versions
+  Chube / Tricore length
+  Goliath length
 - Internal cable routing paths for cleaner hotend fan and probe wiring from the front of the toolhead down through the ducts.
 
 ## Hotends supported
