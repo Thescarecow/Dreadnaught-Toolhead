@@ -1,6 +1,6 @@
-<img width="561" height="578" alt="image" src="https://github.com/user-attachments/assets/85a6fcf0-bb26-4314-856c-97eef1b19b81" />
 
-## Dreadnaught Multicore CPAP v1 Release
+
+## Dreadnaught Dual Ducted Fan v1 Release
 
 The Dreadnaught Multicore CPAP v1 is a high performance 3D printer toolhead design built around an underslung hotend mount. The design goal was to improve hotend rigidity, belt mounting flexibility, and centre-of-mass placement while retaining a compact package with no X-travel loss.
 
