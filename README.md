@@ -1,9 +1,13 @@
 # Dreadnaught Toolhead
 <img width="2494" height="1297" alt="image" src="https://github.com/user-attachments/assets/45135bdc-d54e-4c15-a5c7-8f52e41cee55" />
 
-High-performance, centre-of-mass-conscious toolhead platform for high-flow hotends and compact geared extruders.
+Welcome to Dreadnaught, a high-performance 3D printer toolhead platform for Monolith belt path  and Voron belt path (soon) printers, built around an underslung hotend mount, compact belt path, and high-output part-cooling options.
 
-The design target is a stiff, compact toolhead suitable for engineering-grade printed materials such as PET-CF, PPS-CF, or comparable high-temperature composite materials. This is not intended as an ABS or equivalent-only toolhead design.
+The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling, while the Dual Ducted Fan version uses a pair of integrated 30 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11 A. This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for this printer class.
+
+The underslung hotend layout keeps the filament path and centre of mass close to the MGN12H rail carriage, improving rigidity and high-speed print stability while retaining compact packaging and no X-travel loss.
+
+The belt path supports up to 12 mm belts with an accessible, robust clamp arrangement, keeping the toolhead adaptable across different high-performance motion-system setups.
 
 ## Key features
 
@@ -45,6 +49,21 @@ Supported extruder mounting patterns:
 
 - Orbiter v2.0
 - Sherpa Mini
+
+## Core Structure ##
+<img width="753" height="391" alt="Dreadnuaght core" src="https://github.com/user-attachments/assets/6f67a3eb-c137-4010-acf0-03fd3681e8f0" />
+
+The centre core houses a seperate part for the Belt clamp nuts. This means that if a bolt breaks, a nut galls, or the thread interface is damaged, the centre core can be replaced without reprinting the entire toolhead.
+
+The centre core also forms part of the reinforced hotend mounting structure. Longer front mounting bolts tie the hotend mount back into the rail carriage, which should improve stiffness compared with shorter bolts lacking the same support structure
+
+## Backstory ## 
+Development started at the start of 2025 with the aim of producing a high-performance plastic toolhead wiht a focus on optimal COM placement, flexability in extruder and hotend options and the added benifit of the undersling hoend allowing both better COM placement but also microbowden performance to add in PA tuning
+
+The main design direction was to place the hotend underslung below the MGN12H rail, with the filament path positioned as close to the rail as practical. This was considered a viable way to improve centre-of-mass placement compared with more conventional front-mounted toolhead layouts.
+
+
+<img width="350" height="597" alt="Dreadnaught Cpap section veiw" src="https://github.com/user-attachments/assets/e117b89b-3afd-49ff-a1d1-930f72ed9994" /><img width="350" height="597" alt="dreadnaught early prototype" src="https://github.com/user-attachments/assets/70efcccf-9775-4e16-afae-0acd9b567a5b" />
 
 
 ## Planned future versions
