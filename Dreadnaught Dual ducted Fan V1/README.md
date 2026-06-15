@@ -1,3 +1,4 @@
+<img width="1193" height="641" alt="image" src="https://github.com/user-attachments/assets/5461ccb0-508d-4671-8776-c0e7842ba2fc" />
 
 
 ## Dreadnaught Dual Ducted Fan v1 Release
