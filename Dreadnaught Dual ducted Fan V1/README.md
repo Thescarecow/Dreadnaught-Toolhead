@@ -62,22 +62,8 @@ Avoid:
 - 2x m3 SHCS 8mm <-rear hotend bolts
 - 2x m3 SHCS 45mm <-front hotend bolts 
 
-
-## Core Structure
-
-<img width="753" height="391" alt="image" src="https://github.com/user-attachments/assets/ace6bc66-f6fb-4593-b429-44ce511236ab" />
-
-The centre core houses a seperate part for the Belt clamp nuts. This means that if a bolt breaks, a nut galls, or the thread interface is damaged, the centre core can be replaced without reprinting the entire toolhead.
-
-The centre core also forms part of the reinforced hotend mounting structure. Longer front mounting bolts tie the hotend mount back into the rail carriage, which should improve stiffness compared with shorter bolts lacking the same support structure
-
-## Backstory
-
-Development started at the start of 2025 with the aim of producing a high-performance plastic toolhead wiht a focus on optimal COM placement, flexability in extruder and hotend options and the added benifit of the undersling hoend allowing both better COM placement but also microbowden performance to add in PA tuning
-
-The main design direction was to place the hotend underslung below the MGN12H rail, with the filament path positioned as close to the rail as practical. This was considered a viable way to improve centre-of-mass placement compared with more conventional front-mounted toolhead layouts.
-
-<img width="350" height="597" alt="image" src="https://github.com/user-attachments/assets/ee56b00a-ab72-4c49-b1a8-b5b305b78730" />
+## Fan wiring and Klipper control
+Coming soon
 
 
 ## Repository notices
