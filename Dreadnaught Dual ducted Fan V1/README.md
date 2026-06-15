@@ -26,6 +26,8 @@ This version replaces the external CPAP-style airflow approach with a self-conta
   Goliath length
 - Internal cable routing paths for cleaner hotend fan and probe wiring from the front of the toolhead down through the ducts.
 
+## NOTES: These fans are LOUD and pull a lot of power (24v 130W 5.5A) at the full 130,000 RPM for this motor driver combo High RPM Metal fan = will eat fingers, tools, bolts alike with stunning results, never run them with loose items around that could be sucked/fall into the blades while they are running
+
 ## Hotends supported
 - Chube Air
 - Tricore
