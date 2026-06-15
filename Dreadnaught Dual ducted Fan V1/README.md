@@ -54,9 +54,8 @@ Avoid:
 - 4x m2.5 SHCS 16mm <-Delta fan mount
 - 4x m2.5 heatsets 
 - 10x m3 square nuts (5.5mm x 3.5mm)
-- 4x m3 Heatsets (4.7mm x 3mm) <- 2 for the rear duct mount & 2 for the beacon mount
-- 2x m3 SHCS 35mm <- front Duct to main body mounting
-- 2x m3 SHCS 12mm <- rear Duct to main body mounting
+- 2x m3 Heatsets (4.7mm x 3mm) 2 for the beacon mount
+- 2x m3 SHCS 25mm <- Stiffner bolt
 - 2x m3 SHCS 16mm <-Extruder mount
 - 2x m3 SHCS 8mm <-rear hotend bolts
 - 2x m3 SHCS 45mm <-front hotend bolts 
