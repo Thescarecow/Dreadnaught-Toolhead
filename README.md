@@ -49,7 +49,6 @@ Supported extruder mounting patterns:
 
 ## Planned future versions
 
-- Dual 30 mm ducted fan version
 - Single 30 mm ducted fan version
 - Dual 3268 fan version
 - Dual 5015 fan version
