@@ -3,7 +3,7 @@
 
 ## Dreadnaught Dual Ducted Fan v1 Release
 
-The Dreadnaught Dual Ducted Fan v1 is a high-power fan-based toolhead for Monolith and Voron-style printers, built around an underslung hotend mount and dual 30 mm ducted fans.
+The Dreadnaught Dual Ducted Fan v1 is a high-power fan-based toolhead for Monolith belt path and Voron-style printers (Soon), built around an underslung hotend mount and dual 30 mm ducted fans.
 
 Using two 130 W / 5.5 A ducted fans, the toolhead has a combined fan capacity of 260 W and 11 A. This makes it one of the most powerful integrated fan-cooled toolhead designs currently released for this printer class.
 
