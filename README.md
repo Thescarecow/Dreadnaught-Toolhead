@@ -21,7 +21,7 @@ The underslung hotend layout keeps the filament path and centre of mass close to
 ## Current Release versions
 
 ### Dreadnaught Multicore CPAP v1
-
+[Dreadnaught Multicore CPAP](https://github.com/Thescarecow/Dreadnaught-Toolhead/tree/main/Dreadnaught%20Multicore%20CPAP%20v1)
 
 Supported hotends:
 
