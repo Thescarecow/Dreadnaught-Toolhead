@@ -1,13 +1,13 @@
 # Dreadnaught Toolhead
 <img width="2494" height="1297" alt="image" src="https://github.com/user-attachments/assets/45135bdc-d54e-4c15-a5c7-8f52e41cee55" />
 
-Welcome to Dreadnaught, a high-performance 3D printer toolhead platform for Monolith belt path  and Voron belt path (soon) printers, built around an underslung hotend mount, compact belt path, and high-output part-cooling options.
+Welcome to Dreadnaught, a high-performance 3D printer toolhead platform for Monolith belt path and Voron belt path (soon) CoreXY printers, built around an underslung hotend mount, compact belt path, and high-output part-cooling options.
 
-The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling, while the Dual Ducted Fan version uses a pair of integrated 30 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11 A. This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for these types of printers and provides more part cooling potential then a WS7040 or even a WS9290 CPAP. 
+The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling and maximising COM and Toolhead stiffness, while the Dual Ducted Fan version uses a pair of integrated 28 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11A. 
 
-The underslung hotend layout keeps the filament path and centre of mass close to the MGN12H rail carriage, improving rigidity and high-speed print stability while retaining compact packaging and no X-travel loss.
+This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for these types of printers and provides more part cooling potential then a WS7040 or even a WS9290 CPAP. 
 
-The belt path supports up to 12 mm belts with an accessible, robust clamp arrangement, keeping the toolhead adaptable across different high-performance motion-system setups.
+The underslung hotend layout keeps the filament path and centre of mass close to the MGN12H rail carriage while also allowing for up to 12mm belts supported, improving rigidity and high-speed print stability while retaining compact packaging and no XY-travel loss.
 
 ## Key features
 
@@ -28,22 +28,25 @@ Supported hotends:
 - Chube Air
 - Goliath Air
 - Tricore Long Air
+- Other hotends with the same total length as the ones listed providing they also match the bolt mounting locations as well
+Note: Some hotend mounting configurations may require tapping hotend mounts to M3.
 
 Supported extruder mounting patterns:
 
 - Orbiter v2.0
 - Sherpa Mini
 
-Note: Some hotend mounting configurations may require tapping hotend mounts to M3.
-
 ## Dual 30 mm ducted fan version ##
 
 Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM
+
 Supported hotends:
 
 - Chube Air
 - Goliath Air
 - Tricore Long Air
+- Other hotends with the same total length as the ones listed providing they also match the bolt mounting locations as well
+Note: Some hotend mounting configurations may require tapping hotend mounts to M3.
 
 Supported extruder mounting patterns:
 
