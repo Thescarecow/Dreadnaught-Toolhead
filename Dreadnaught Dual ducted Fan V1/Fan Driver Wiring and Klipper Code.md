@@ -1,5 +1,7 @@
 ## Fan Driver wiring 
-<img width="2242" height="642" alt="Driver wiring" src="https://github.com/user-attachments/assets/45fa94a3-3fd3-4ccb-8837-2a16f588ba9f" />
+During normal use fan power wont be more then 30% but unless you know what you are doing with power limited etc please use a correctly sized PSU for the full power draw of the fans
+<img width="1372" height="459" alt="Driver wiring basic" src="https://github.com/user-attachments/assets/37dff5be-9489-4db1-b37a-77be9c164baa" />
+
 
 
 ## Klipper control code
