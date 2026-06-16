@@ -63,7 +63,8 @@ Avoid:
 - 2x m3 SHCS 45mm <-front hotend bolts 
 
 ## Fan wiring and Klipper control
-[Fan wiring](https://github.com/Thescarecow/Dreadnaught-Toolhead/blob/main/Dreadnaught%20Dual%20ducted%20Fan%20V1/Fan%20Installation%20and%20cable%20routing.md) 
+[Fan wiring](https://github.com/Thescarecow/Dreadnaught-Toolhead/blob/main/Dreadnaught%20Dual%20ducted%20Fan%20V1/Fan%20Installation%20and%20cable%20routing.md)
+[Fan Driver wiring guide](https://github.com/Thescarecow/Dreadnaught-Toolhead/blob/main/Dreadnaught%20Dual%20ducted%20Fan%20V1/Fan%20Driver%20Wiring%20and%20Klipper%20Code.md)
 
 
 ## Repository notices
