@@ -58,7 +58,7 @@ The centre core houses a seperate part for the Belt clamp nuts. This means that 
 The centre core also forms part of the reinforced hotend mounting structure. Longer front mounting bolts tie the hotend mount back into the rail carriage, which should improve stiffness compared with shorter bolts lacking the same support structure
 
 ## Backstory ## 
-Development started at the start of 2025 with the aim of producing a high-performance plastic toolhead wiht a focus on optimal COM placement, flexability in extruder and hotend options and the added benifit of the undersling hoend allowing both better COM placement but also microbowden performance to add in PA tuning
+Development started at the start of 2025 with the aim of producing a high-performance plastic toolhead wiht a focus on optimal COM placement, flexability in extruder and hotend options, part of this was moving the hotend back and slighty under the rail carriage to undersling it, allowing both better COM placement but also microbowden performance to add in PA tuning.
 
 The main design direction was to place the hotend underslung below the MGN12H rail, with the filament path positioned as close to the rail as practical. This was considered a viable way to improve centre-of-mass placement compared with more conventional front-mounted toolhead layouts.
 
