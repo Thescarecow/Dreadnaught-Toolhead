@@ -36,7 +36,7 @@ Supported extruder mounting patterns:
 - Orbiter v2.0
 - Sherpa Mini
 
-## Dual 30 mm ducted fan version ##
+## Dual 28 mm ducted fan version ##
 
 Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM
 
