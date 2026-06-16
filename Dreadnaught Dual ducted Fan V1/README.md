@@ -14,7 +14,7 @@ This version replaces the external CPAP-style airflow approach with a self-conta
 ## Features
 - For Monolith Belt path style Core XY printers
 - Support for belts up to 12 mm wide.
-- 30mm Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM 
+- 28mm Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM 
 - No Xy-travel loss from the toolhead package size.
 - Underslung hotend layout for improved centre-of-mass placement.
 - Removable centre core with replaceable square nut interface.
