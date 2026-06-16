@@ -3,7 +3,7 @@
 
 Welcome to Dreadnaught, a high-performance 3D printer toolhead platform for Monolith belt path  and Voron belt path (soon) printers, built around an underslung hotend mount, compact belt path, and high-output part-cooling options.
 
-The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling, while the Dual Ducted Fan version uses a pair of integrated 30 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11 A. This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for this printer class.
+The platform supports currently both the Multicore CPAP version and the Dual Ducted Fan version. The CPAP variant is designed around external high-flow CPAP cooling, while the Dual Ducted Fan version uses a pair of integrated 30 mm ducted fans rated at 130 W / 5.5 A each, giving a combined fan capacity of 260 W and 11 A. This makes the dual fan version the most powerful integrated fan-cooled toolhead design currently released for these types of printers and provides more part cooling potential then a WS7040 or even a WS9290 CPAP. 
 
 The underslung hotend layout keeps the filament path and centre of mass close to the MGN12H rail carriage, improving rigidity and high-speed print stability while retaining compact packaging and no X-travel loss.
 
