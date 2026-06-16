@@ -36,8 +36,8 @@ Supported extruder mounting patterns:
 - Orbiter v2.0
 - Sherpa Mini
 
-## Dreadnaught Dual 28 mm Ducted Fan v1 ##
-
+## Dreadnaught Dual 28 mm Ducted Fans v1 ##
+[Dreadnaught Dual 28mm Ducted Fans](https://github.com/Thescarecow/Dreadnaught-Toolhead/tree/main/Dreadnaught%20Dual%20ducted%20Fan%20V1)
 Fans used: https://github.com/Thescarecow/130K-RPM-28mm-ducted-fan-Cad-COM
 
 Supported hotends:
