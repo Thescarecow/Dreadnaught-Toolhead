@@ -1,5 +1,5 @@
 ## Fan cable runs
-each fan requires 3 wires from it back to the driver outside the chamber, shown is the internal cable path for these wires, it is stronly recommended that you either use a plug to match the type that your fan comes with or sodering FET wires to the fan pins directly, then run the length of the wires through the channel to plug connections that extenstion cables can connect to at the top of the toolhead for easy removial 
+Each fan requires 3 wires from it back to the driver outside the chamber, shown is the internal cable path for these wires, it is stronly recommended that you either use a plug to match the type that your fan comes with or sodering FET wires to the fan pins directly, then run the length of the wires through the channel to plug connections that extenstion cables can connect to at the top of the toolhead for easy removial 
 
 <img width="1885" height="1674" alt="Dreadnaugtht Dual fan fan cable routing path" src="https://github.com/user-attachments/assets/bb7f8cf7-c740-40a4-b56a-dc1d50d64b92" />
 
