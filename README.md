@@ -12,7 +12,7 @@ The underslung hotend layout keeps the filament path and centre of mass close to
 ## Key features
 
 - Up to 12 mm belt support
-- Monolith-style belt path
+- Monolith-style belt path with voron planed in the future
 - CPAP and fan-cooled variants
 - Extruder mounting support for Orbiter v2.0 and Sherpa Mini bolt patterns
 - Hotend mounting support for Chube Air, Goliath Air, and Tricore Long Air
