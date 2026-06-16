@@ -20,6 +20,7 @@ This version replaces the external CPAP-style airflow approach with a self-conta
 - Removable centre core with replaceable square nut interface.
 - Reinforced hotend mounting through longer front bolts into the rail carriage.
 - Combined hotend mounting pattern for Chube, Tricore, and Goliath hotends (providing the mounting bolts are tapped to M3).
+- Chube/Tricore length or Goliath length body options
 - M3 washer support for more secure hotend mounting.
 - Two versions
   Chube / Tricore length
