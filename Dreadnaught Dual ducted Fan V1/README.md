@@ -1,11 +1,11 @@
 <img width="1193" height="641" alt="image" src="https://github.com/user-attachments/assets/5461ccb0-508d-4671-8776-c0e7842ba2fc" />
 
 
-## Dreadnaught Dual Ducted Fan v1 Release
+## Dreadnaught Dual Ducted Fan v1
 
-The Dreadnaught Dual Ducted Fan v1 is a high-power fan-based toolhead for Monolith belt path and Voron-style printers (Soon), built around an underslung hotend mount and dual 30 mm ducted fans.
+The Dreadnaught Dual Ducted Fan v1 is a high-power fan-based toolhead for Monolith belt path and Voron(Soon) style CoreXY printers , built around an underslung hotend mount and dual 30 mm ducted fans.
 
-Using two 130 W / 5.5 A ducted fans, the toolhead has a combined fan capacity of 260 W and 11 A. This makes it one of the most powerful integrated fan-cooled toolhead designs currently released for this printer class.
+Using two 130 W / 5.5 A ducted fans, the toolhead has a combined fan capacity of 260 W and 11 A. This makes it one of the, if not the single most powerful integrated fan-cooled toolhead designs currently released for this style of printer.
 
 The design carries over the core Dreadnaught layout goals: high hotend rigidity, compact packaging, no Xy-travel loss, and a centre of mass kept close to the MGN12H rail carriage. The underslung hotend layout keeps the filament path tight to the rail while leaving room for an accessible belt clamp arrangement supporting up to 12 mm belts.
 
