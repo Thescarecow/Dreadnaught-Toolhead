@@ -56,7 +56,7 @@ Avoid:
 - 2x m3 SHCS 12mm <- rear Duct to main body mounting
 - 2x m3 SHCS 16mm <-Extruder mount
 - 2x m3 SHCS 8mm <-rear hotend bolts
-- 2x m3 SHCS 45mm <-front hotend bolts 
+- 2x m3 SHCS 40mm <-front hotend bolts 
 
 
 ## Core Structure
