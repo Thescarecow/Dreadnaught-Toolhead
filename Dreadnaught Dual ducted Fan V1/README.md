@@ -61,7 +61,7 @@ Avoid:
 - 2x m3 SHCS 25mm <- Stiffner bolt
 - 2x m3 SHCS 16mm <-Extruder mount
 - 2x m3 SHCS 8mm <-rear hotend bolts
-- 2x m3 SHCS 45mm <-front hotend bolts 
+- 2x m3 SHCS 40mm <-front hotend bolts 
 
 ## Fan wiring and Klipper control
 [Fan Motor Wiring](https://github.com/Thescarecow/Dreadnaught-Toolhead/blob/main/Dreadnaught%20Dual%20ducted%20Fan%20V1/Fan%20Installation%20and%20cable%20routing.md)
